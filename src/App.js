@@ -4,7 +4,7 @@ import './App.css'
 
 //Add OpenAI api key
 const Apiurl = new Configuration({
-    apiKey: "yourAPIkey" // here you need to 
+    apiKey: "sk-proj-CTMCEY27RGYgCu25ypnIT3BlbkFJdg2Qmxsf6qoQH8CCFqY9" 
 });
 
 // Copy button
